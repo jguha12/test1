@@ -1,1 +1,6 @@
+# basic options
+title: My Blog
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
