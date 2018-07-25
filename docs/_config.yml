@@ -1,5 +1,6 @@
 # basic options
-title: My Blog
+title: My Articles
+author: Jagneswar Guha
 
 # Build settings
 markdown: kramdown
