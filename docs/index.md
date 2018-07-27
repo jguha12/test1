@@ -1,6 +1,6 @@
 # Creating order out of the Agile chaos
 
-Whatever approach we follow, the principles behind all software development success are similar. The traditional as well as the Agile method require good team work, communication, appropriate tools and facilities, and some kind of agreed upon protocols to be followed. Enough is already written about Scrum and Sprint, or Chicken and Pigs. Let me highlight some of the factors that contribute to the success of **Agile** methods.
+Whatever approach we follow, the principles behind all software development success are similar. The traditional as well as the Agile method require good team work, communication, appropriate tools and facilities, and some kind of agreed upon protocols to be followed. Enough is already written about Scrum and Sprint, or Chicken and Pigs. Let me highlight some of the factors that contribute to the success of Agile methods.
 
 ## Agile is not synonymous to chaos
 
