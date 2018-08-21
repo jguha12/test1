@@ -31,3 +31,10 @@ You have to get strong people to guide the *Pigs*.
 Agile is not for organizations which do not have any process orientation maturity. Before jumping on Agile evaluate whether your organization has enough maturity towards process orientation.
 
 *Did I miss out anything? Feel free to put your comments.*
+
+<script src="https://utteranc.es/client.js"
+        repo="[jguha12/test1]"
+        issue-term="pathname"
+        crossorigin="anonymous"
+        async>
+</script>
