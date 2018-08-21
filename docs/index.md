@@ -33,7 +33,7 @@ Agile is not for organizations which do not have any process orientation maturit
 *Did I miss out anything? Feel free to put your comments.*
 
 <script src="https://utteranc.es/client.js"
-        repo="[jguha12/test1]"
+        repo="jguha12/test1"
         issue-term="pathname"
         crossorigin="anonymous"
         async>
