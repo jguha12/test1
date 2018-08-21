@@ -5,3 +5,11 @@ author: Jagneswar Guha
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+
+# Feedback
+<script src="https://utteranc.es/client.js"
+        repo="[jguha12/test1]"
+        issue-term="pathname"
+        crossorigin="anonymous"
+        async>
+</script>
